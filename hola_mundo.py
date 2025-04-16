@@ -1,2 +1,2 @@
 print("hola mundo")
-print("chau mundo culpen Mrcelo por mi pronta partida")
+print("chau mundo culpen a marcelo")
